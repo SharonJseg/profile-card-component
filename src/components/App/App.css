@@ -11,11 +11,27 @@
   position: absolute;
   left: -204.71px;
   top: -669.84px;
+  z-index: -1;
+  /* object-fit: cover; */
 }
 
 .pattern-bottom {
   position: absolute;
   right: -204px;
-  bottom: -50%;
+  bottom: -669px;
   z-index: -1;
+  /* object-fit: cover; */
+}
+
+@media screen and (max-width: 375px) {
+  .pattern-top {
+    max-width: 622px;
+    top: -397px;
+    left: -420px;
+  }
+  .pattern-bottom {
+    max-width: 622px;
+    bottom: -280px;
+    right: -430px;
+  }
 }
