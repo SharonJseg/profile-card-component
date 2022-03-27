@@ -34,11 +34,11 @@ p {
 
 body {
   background-color: var(--clr-background);
-  font-family: var(--ff-chivo);
-  color: var(--clr-gray);
+  font-family: var(--ff);
+  color: var(--clr-dark-gray);
   width: 100%;
   margin: 0 auto;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 img,

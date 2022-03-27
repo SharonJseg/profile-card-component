@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'KumbhSans';
+  font-family: 'Kumbh-Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -8,9 +8,9 @@
 }
 
 @font-face {
-  font-family: 'KumbhSans';
+  font-family: 'Kumbh-Sans';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-display: swap;
   src: url('KumbhSans-Bold.woff') format('woff'),
     url('KumbhSans-Bold.woff2') format('woff2');

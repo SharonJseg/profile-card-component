@@ -1,17 +1,14 @@
 :root {
   /* Font families */
-  --ff-chivo: 'Chivo', sans-serif;
+  --ff: 'Kumbh-Sans', sans-serif;
 
   /* Font Sizes */
-  --fs-base: 1.125rem;
-  --fs-header: 3.25rem;
+  --fs-small: 0.625rem;
+  --fs-base: 1.14rem;
+  --fs-big: 1.125rem;
 
   /* Colors */
-  --clr-background: ##19a1ae;
-  --base-gray: 225;
-  --clr-gray: hsla(var(--base-gray), 21%, 45%, 100%);
-  --clr-gray-light: hsla(var(--base-gray), 40%, 80%, 100%);
-  --clr-gray-dark: hsla(var(--base-gray), 26%, 23%, 100%);
-  --clr-cyan: hsla(157, 74%, 62%, 100%);
-  --clr-white: hsla(0, 0%, 100%, 100%);
+  --clr-background: #19a1ae;
+  --clr-dark-gray: #2e3349;
+  --clr-gray: #6b7082;
 }
